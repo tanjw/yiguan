@@ -1,0 +1,26 @@
+@charset "utf-8";
+body,div,p,blockquote,hr,ul,ol,h1,h2,h3,h4,h5,h6,menu,dd,dl,form,fieldset,input,textarea,caption,select,button,input,pre,hr,td,th,address,section,article,aside,header,footer,nav,dialog,figure,hgroup{margin: 0;padding:0}
+body{font:16px "Microsoft YaHei", Arial,Lucida Grande,Lucida,SimHei,SimSun;color:#2e2c2b}
+ul,ol,li{list-style:none}
+img{vertical-align:middle;outline:0}
+img,a{border:0 none}
+a,a:hover{text-decoration:none;}
+input{outline:none;}
+button{outline:none;}
+.main{ width:100%; display:none; max-width:750px; margin:0 auto;}
+
+.bt{ width:90%; position:relative; text-align:center; margin:0 auto; margin-top:20px; height:45px; line-height:45px;background:#794700; color:#FFF}
+.bt1{ width:100%; position:relative; text-align:center; margin:0 auto; color:#FFF}
+.bt1 b{ position:absolute; bottom:50px; display:block; color:#911925; font-size:20px;width:100%; left:0; text-align:center}
+.tm{ width:60%; padding:20px 0; margin:0 auto; text-align:center; line-height:20px; color:#5e503d}
+.xz{ width:60%; padding:10px 0; margin:0 auto; text-align:center;}
+.xz li{ padding:10px 0; }
+.xz div{ height:30px; line-height:30px; text-align:center; color:#a32a2f; background:#fbe3c4}
+.xz div.now{ background:#ffcb87}
+.syt{ width:70%; position:fixed; bottom:20px; height:40px; line-height:40px; margin:0 auto; text-align:center; color:#fff; background:#2ca5cc}
+.ckjg{ width:70%; position:fixed; bottom:80px; height:40px; line-height:40px; margin:0 auto; text-align:center; color:#fff; background:#2ca5cc}
+
+
+
+
+
